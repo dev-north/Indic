@@ -1,0 +1,19 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.flex-container{
+    display: flex;
+    flex-direction: row;
+}
+.intro{
+    color: azure;
+    font-family: sans-serif;
+    height: 100vmin;
+    width: 80vmax;
+    background: rgb(90, 90, 90);
+}
+.action{
+    height: 100vmin;
+    width: 20vmax;
+}
